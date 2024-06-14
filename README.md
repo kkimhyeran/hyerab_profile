@@ -2,7 +2,7 @@
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe5f9&height=180&text=HeyranGithub&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe5f9&height=180&text=Heyran%20Github&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
 
