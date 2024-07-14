@@ -23,7 +23,7 @@ I want to become a DBA and Data Engineer.
 <br/>
 
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Skill ) </h2> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Skill  </h2> 
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft Sql Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /><br/>
