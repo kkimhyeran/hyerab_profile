@@ -12,15 +12,13 @@ Let's Talk about me
 My major is industrial engineering.
 I want to become a DBA and Data Engineer.
 
-<br> 
-<br/>
+<br> <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr9468)](https://solved.ac/rlatngus1691/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkimhyeran&layout=compact&theme=dracula) 
 
 
-<br> 
-<br/>
+<br> <br/>
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Skill  </h2> 
@@ -31,5 +29,7 @@ I want to become a DBA and Data Engineer.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 </div>
 </div>
+
+
 
 
